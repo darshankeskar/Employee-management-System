@@ -1,2 +1,2 @@
 # Employee-management-System
-task by using .net
+task by using ado.net
